@@ -1,0 +1,6 @@
+faiss-cpu
+numpy
+transformers
+sentence-transformers
+chromadb
+gradio

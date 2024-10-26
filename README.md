@@ -20,5 +20,5 @@ This repository contains a Retrieval-Augmented Generation (RAG) chatbot that use
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername](https://github.com/SriDharshana/QA-Chatbot_with_ChromaDB.git
-   cd QA-Chatbot_with_ChromaDB
+   git clone [https://github.com/yourusername](https://github.com/SriDharshana/QA-Chatbot_with_ChromaDB-.git
+   cd QA-Chatbot_with_ChromaDB-
